@@ -5,6 +5,7 @@
 
 <div align="Center">
 
+## Formas de Onda Periódicas
 ### ------------------------------Ejercicio 1_a|Pagina 1|#1------------------------------
 </div>
 
@@ -33,7 +34,11 @@ a) **$f(t) = 3\sin 2\pi \cdot 2 \cdot t - 4\sin 2\pi \cdot 4 \cdot t + 0.7\sin2\
 
 </div>
 
+<div align="center">
+
 ### ------------------------------Ejercicio 1_b|Pagina 1|#2------------------------------
+</div>
+
 b) $f(t) = 5 + \frac{3}{2}\cos(2\pi \cdot 50 \cdot t + \pi/8) + 6\cos(2\pi \cdot 300 \cdot t + \pi/2)$
 
 
@@ -59,7 +64,11 @@ b) $f(t) = 5 + \frac{3}{2}\cos(2\pi \cdot 50 \cdot t + \pi/8) + 6\cos(2\pi \cdot
 
 </div>
 
+<div align="center">
+
 ### ------------------------------Ejercicio 1_c|Pagina 1|#3------------------------------
+</div>
+
 c) $f(t) = 2\sin(\frac{t}{100})+\frac{2}{3}\sin(\frac{t}{300})+\frac{2}{5}\sin(\frac{t}{500})$
 
 $f(t) = 2\sin(\frac{2\pi t}{200\pi})+\frac{2}{3}\sin(\frac{2\pi t}{600\pi})+\frac{2}{5}\sin(\frac{2\pi t}{1000\pi})$
@@ -114,7 +123,10 @@ $x(t) = \frac{\pi}{2} + \frac{4}{\pi} (\frac{\cos \frac{2\pi t}{2\pi}}{1^2} + \f
 ![Ejercicio1_b](images/Ejercicio2.png)
 </div>
 
+<div align="center">
+
 ### ------------------------------Ejercicio 3|Pagina 1|#5------------------------------
+</div>
 
 Determine el periodo de la serie
 
@@ -126,7 +138,10 @@ $x(t) = \frac{1}{2} + \frac{2}{\pi}(\sin \frac{2\pi t}{10} + \frac{1}{3}\sin \fr
 
 ![Ejercicio1_b](images/Ejercicio3.png)
 
+<div align="center">
+
 ### ------------------------------Ejercicio 4_a|Pagina 1|#6------------------------------
+</div>
 
 Exprese la función dada como una suma de funciones seno, determine su amplitud y ángulo de fase de cada armónica. (Apoyese de formulas trigonométricas, vea el formulario de trigonometría)
 
@@ -145,7 +160,10 @@ a) $f(x) = 0.5\cos t + 3.2\sin t$
 </div>
 </div>
 
+<div align="center">
+
 ### ------------------------------Ejercicio 4_b|Pagina 1|#7------------------------------
+</div>
 
 Exprese la función dada como una suma de funciones seno, determine su amplitud y ángulo de fase de cada armónica. (Apoyese de formulas trigonométricas, vea el formulario de trigonometría)
 
@@ -161,7 +179,10 @@ b) $x(t) = 3\cos 3t$
 </div>
 </div>
 
+<div align="center">
+
 ### ------------------------------Ejercicio 5_a|Pagina 1|#8------------------------------
+</div>
 
 Para las siguientes funciones periódicas, trace las gráficas de al menos tres períodos:
 
@@ -169,7 +190,10 @@ a) $ f(t) = t^2, -1 \leq t \leq 1 $
 
 ![Ejercicio1_b](images/Ejercicio5_a.png)
 
+<div align="center">
+
 ### ------------------------------Ejercicio 5_b|Pagina 1|#9------------------------------
+</div>
 
 Para las siguientes funciones periódicas, trace las gráficas de al menos tres períodos:
 
@@ -181,7 +205,10 @@ t & 0 \leq t \leq 1
 
 ![Ejercicio1_b](images/Ejercicio5_b.png)
 
+<div align="center">
+
 ### ------------------------------Ejercicio 6_a|Pagina 2|#10------------------------------
+</div>
 
 Escriba expresiones matemáticas para describir las funciones cuyas gráficas se muestran a continuación
 
@@ -200,7 +227,10 @@ $T = 2$
 </div>
 </div>
 
+<div align="center">
+
 ### ------------------------------Ejercicio 6_b|Pagina 2|#11------------------------------
+</div>
 
 Escriba expresiones matemáticas para describir las funciones cuyas gráficas se muestran a continuación
 
