@@ -248,3 +248,24 @@ $T = 3$
 
 </div>
 </div>
+
+<div align="center">
+
+## Funciones Pares e impares
+### ------------------------------Ejercicio 1_a|Pagina 2|#12------------------------------
+</div>
+
+![Ejercicio1_b](images/Ejercicio2.1_a.png)
+
+* i (Impar): Presenta simetria respecto al origen
+* ii (Par): Presenta simpretia respecto al eje vertical
+
+<div align="center">
+
+### ------------------------------Ejercicio 1_b|Pagina 2|#13------------------------------
+</div>
+
+![Ejercicio1_b](images/Ejercicio2.1_b.png)
+
+* i: La gráfica no presenta simetría ni respecto al eje vertical ni respecto al origen.
+* ii: La gráfica cumple la condición de función impar. Esto significa que si se rota la gráfica 180° alrededor del origen, coincide consigo misma.
