@@ -9,7 +9,7 @@
 
 <div align="Center">
 
-### ------------------------------Ejercicio 1------------------------------
+### ------------------------------Ejercicio 1_a|Pagina 1|#1------------------------------
 </div>
 
 a) **$f(t) = 3\sin 2\pi \cdot 2 \cdot t - 4\sin 2\pi \cdot 4 \cdot t + 0.7\sin2\pi \cdot 5 \cdot t$**
@@ -37,6 +37,7 @@ a) **$f(t) = 3\sin 2\pi \cdot 2 \cdot t - 4\sin 2\pi \cdot 4 \cdot t + 0.7\sin2\
 
 </div>
 
+### ------------------------------Ejercicio 1_b|Pagina 1|#2------------------------------
 b) $f(t) = 5 + \frac{3}{2}\cos(2\pi \cdot 50 \cdot t + \pi/8) + 6\cos(2\pi \cdot 300 \cdot t + \pi/2)$
 
 
@@ -62,7 +63,7 @@ b) $f(t) = 5 + \frac{3}{2}\cos(2\pi \cdot 50 \cdot t + \pi/8) + 6\cos(2\pi \cdot
 
 </div>
 
-
+### ------------------------------Ejercicio 1_c|Pagina 1|#3------------------------------
 c) $f(t) = 2\sin(\frac{t}{100})+\frac{2}{3}\sin(\frac{t}{300})+\frac{2}{5}\sin(\frac{t}{500})$
 
 $f(t) = 2\sin(\frac{2\pi t}{200\pi})+\frac{2}{3}\sin(\frac{2\pi t}{600\pi})+\frac{2}{5}\sin(\frac{2\pi t}{1000\pi})$
@@ -83,9 +84,31 @@ $f(t) = 2\sin(\frac{2\pi t}{200\pi})+\frac{2}{3}\sin(\frac{2\pi t}{600\pi})+\fra
 |--------------------------|:--------------------------:|:----------------------------:|:----------------------------:|
 |Amplitud                  |2 amps                      |$\frac{2}{3}amps$             | $\frac{2}{5}$ amps           |
 |Periodo                   |$200\pi seg$                |$600\pi seg$                  |$1000\pi seg$                 |
-|F.Lineal                  |$\frac{1}{200\pi}$ Hz       |$\frac{1}{600\pi}$ Hz         |$\frac{1}{1000\pi}$Hz          |
+|F.Lineal                  |$\frac{1}{200\pi}$ Hz       |$\frac{1}{600\pi}$ Hz         |$\frac{1}{1000\pi}$ Hz          |
 |F.Angular                 |$\frac{1}{100} \frac{rad}{seg}$      |$\frac{1}{300} \frac{rad}{seg}$        |$\frac{1}{500} \frac{rad}{seg}$       |
 |Angulo de Fase            |0                           |0                             |0                             |
 |Armonicas presentes       |Componente fundamental      |Quinta Armonica               |Tercera Armonica              |
 
+</div>
+
+<div align="Center">
+
+### ------------------------------Ejercicio 2|Pagina 1|#4------------------------------
+</div>
+
+Determine el periodo de la serie
+
+<div align="center">
+
+$x(t) = \frac{\pi}{2} + \frac{4}{\pi} (\frac{\cos x}{1^2} + \frac{\cos 3x}{3^2} + \frac{\cos 5x}{5^2})$
+
+</div>
+
+Y grafique la señal recortada hasta con 6 terminos y cada uno de las armónicas
+
+* Reescribir las serie cómo:
+
+<div align="center">
+
+$x(t) = \frac{\pi}{2} + \frac{4}{\pi} (\frac{\cos \frac{2\pi t}{2\pi}}{1^2} + \frac{\cos \frac{2\pi 3t}{2\pi}}{3^2} + \frac{\cos \frac{2\pi 5t}{2\pi}}{5^2})$
 </div>
