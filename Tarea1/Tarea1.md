@@ -58,21 +58,34 @@ b) $f(t) = 5 + \frac{3}{2}\cos(2\pi \cdot 50 \cdot t + \pi/8) + 6\cos(2\pi \cdot
 |F.Lineal                  |50 Hz                       |300Hz                         |
 |F.Angular                 |$100\pi \frac{rad}{seg}$    |$600\pi \frac{rad}{seg}$      |
 |Angulo de Fase            |$\frac{\pi}{8}rad$          |$\frac{\pi}{2}rad$            |
-|Armonicas presentes       |Segunda Armonica            |Cuarta Armonica               |
+|Armonicas presentes       |Componente fundamental      |Sexta Armonica                |
 
 </div>
 
 
 c) $f(t) = 2\sin(\frac{t}{100})+\frac{2}{3}\sin(\frac{t}{300})+\frac{2}{5}\sin(\frac{t}{500})$
 
-* Amplitud:
-* Periodo:
-* Frecuencia lineal:
-* Frecuencia angular:
-* ángulo de fase:
+$f(t) = 2\sin(\frac{2\pi t}{200\pi})+\frac{2}{3}\sin(\frac{2\pi t}{600\pi})+\frac{2}{5}\sin(\frac{2\pi t}{1000\pi})$
 
-* Componentes fundamentales:
-* Armonicas presentes:
 
-* Periodo:
-* Frecuencia:
+<div align="center">
+
+![Ejercicio1_b](images/Ejercicio1_c.png)
+</div>
+
+* **$frecuencia (f) = \frac{1}{50}$**
+* **$Periodo (T) = 3000\pi$**
+* **$Componente fundamental = 2\sin(\frac{2\pi t}{200\pi})$**
+
+<div align="center">
+
+|                          | $2\sin(\frac{2\pi t}{200\pi})$   | $\frac{2}{3}\sin(\frac{2\pi t}{600\pi})$   | $\frac{2}{5}\sin(\frac{2\pi t}{1000\pi}) $|
+|--------------------------|:--------------------------:|:----------------------------:|:----------------------------:|
+|Amplitud                  |2 amps                      |$\frac{2}{3}amps$             | $\frac{2}{5}$ amps           |
+|Periodo                   |$200\pi seg$                |$600\pi seg$                  |$1000\pi seg$                 |
+|F.Lineal                  |$\frac{1}{200\pi}$ Hz       |$\frac{1}{600\pi}$ Hz         |$\frac{1}{1000\pi}$Hz          |
+|F.Angular                 |$\frac{1}{100} \frac{rad}{seg}$      |$\frac{1}{300} \frac{rad}{seg}$        |$\frac{1}{500} \frac{rad}{seg}$       |
+|Angulo de Fase            |0                           |0                             |0                             |
+|Armonicas presentes       |Componente fundamental      |Quinta Armonica               |Tercera Armonica              |
+
+</div>
