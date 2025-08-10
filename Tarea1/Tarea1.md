@@ -126,4 +126,59 @@ $x(t) = \frac{1}{2} + \frac{2}{\pi}(\sin \frac{2\pi t}{10} + \frac{1}{3}\sin \fr
 
 ![Ejercicio1_b](images/Ejercicio3.png)
 
-### ------------------------------Ejercicio 4|Pagina 1|#6------------------------------
+### ------------------------------Ejercicio 4_a|Pagina 1|#6------------------------------
+
+Exprese la función dada como una suma de funciones seno, determine su amplitud y ángulo de fase de cada armónica. (Apoyese de formulas trigonométricas, vea el formulario de trigonometría)
+
+a) $f(x) = 0.5\cos t + 3.2\sin t$
+
+**$A\sin(wt + \phi) = a\cos t(wt) + b\sin(wt)$**
+
+* $A = \sqrt{a^2+b^2} = \sqrt{0.5^2+3.2^2} = 3.24$
+* $\phi = \tan^{-1}(\frac{a}{b}) = \tan^{-1}(\frac{0.5}{3.2}) = 0.155$
+
+<div align="center">
+<div style="border: 2px solid red; padding: 10px; display: inline-block;">
+
+**$3.24\sin(t+0.155)$**
+
+</div>
+</div>
+
+### ------------------------------Ejercicio 4_b|Pagina 1|#7------------------------------
+
+Exprese la función dada como una suma de funciones seno, determine su amplitud y ángulo de fase de cada armónica. (Apoyese de formulas trigonométricas, vea el formulario de trigonometría)
+
+b) $x(t) = 3\cos 3t$
+
+* $\cos =  \sin(\phi + \frac{\pi}{2}) $
+
+<div align="center">
+<div style="border: 2px solid red; padding: 10px; display: inline-block;">
+
+**$ 3\sin(3t + \frac{\pi}{2}) $**
+
+</div>
+</div>
+
+### ------------------------------Ejercicio 5_a|Pagina 1|#8------------------------------
+
+Para las siguientes funciones periódicas, trace las gráficas de al menos tres períodos:
+
+a) $ f(t) = t^2, -1 \leq t \leq 1 $
+
+![Ejercicio1_b](images/Ejercicio5_a.png)
+
+### ------------------------------Ejercicio 5_b|Pagina 1|#9------------------------------
+
+Para las siguientes funciones periódicas, trace las gráficas de al menos tres períodos:
+
+b) 
+$$f(t) = \begin{cases} 
+-t & -2 \leq t < 0 \\
+t & 0 \leq t \leq 1
+\end{cases}$$
+
+![Ejercicio1_b](images/Ejercicio5_b.png)
+
+### ------------------------------Ejercicio 5_b|Pagina 2|#9------------------------------
