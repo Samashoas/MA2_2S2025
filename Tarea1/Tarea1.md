@@ -108,3 +108,8 @@ Y grafique la señal recortada hasta con 6 terminos y cada uno de las armónicas
 
 $x(t) = \frac{\pi}{2} + \frac{4}{\pi} (\frac{\cos \frac{2\pi t}{2\pi}}{1^2} + \frac{\cos \frac{2\pi 3t}{2\pi}}{3^2} + \frac{\cos \frac{2\pi 5t}{2\pi}}{5^2})$
 </div>
+
+<div align="center">
+
+![Ejercicio1_b](images/Ejercicio2.png)
+</div>
