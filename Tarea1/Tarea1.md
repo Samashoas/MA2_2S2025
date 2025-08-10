@@ -113,3 +113,17 @@ $x(t) = \frac{\pi}{2} + \frac{4}{\pi} (\frac{\cos \frac{2\pi t}{2\pi}}{1^2} + \f
 
 ![Ejercicio1_b](images/Ejercicio2.png)
 </div>
+
+### ------------------------------Ejercicio 3|Pagina 1|#5------------------------------
+
+Determine el periodo de la serie
+
+$x(t) = \frac{1}{2} + \frac{2}{\pi}\sin \frac{\pi t}{5} + \frac{2}{\pi 3}\sin \frac{3\pi t}{5} + \frac{2}{5\pi}\sin \frac{5\pi t}{5} + \frac{2}{7\pi}\sin \frac{7\pi t}{5}$
+
+Y grafique la señal recortada hasta con 6 términos y cada una de las armonicas
+
+$x(t) = \frac{1}{2} + \frac{2}{\pi}(\sin \frac{2\pi t}{10} + \frac{1}{3}\sin \frac{2\pi 3t}{10} + \frac{1}{5}\sin \frac{2\pi 5t}{10} + \frac{1}{7}\sin \frac{2\pi 7t}{10}+\frac{1}{9}\sin \frac{2\pi 9t}{10} + \frac{1}{11}\sin \frac{2\pi 11t}{10})$
+
+![Ejercicio1_b](images/Ejercicio3.png)
+
+### ------------------------------Ejercicio 4|Pagina 1|#6------------------------------
