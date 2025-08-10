@@ -181,4 +181,40 @@ t & 0 \leq t \leq 1
 
 ![Ejercicio1_b](images/Ejercicio5_b.png)
 
-### ------------------------------Ejercicio 5_b|Pagina 2|#9------------------------------
+### ------------------------------Ejercicio 6_a|Pagina 2|#10------------------------------
+
+Escriba expresiones matemáticas para describir las funciones cuyas gráficas se muestran a continuación
+
+![Ejercicio1_b](images/Ejercicio6_a.png)
+
+<div align="center">
+<div style="border: 2px solid red; padding: 10px; display: inline-block;">
+
+$$f(t) = \begin{cases} 
+1 & 0 \leq t < 1 \\
+0 & -1 \leq t \leq 0
+\end{cases}$$
+
+$T = 2$ 
+
+</div>
+</div>
+
+### ------------------------------Ejercicio 6_b|Pagina 2|#11------------------------------
+
+Escriba expresiones matemáticas para describir las funciones cuyas gráficas se muestran a continuación
+
+![Ejercicio1_b](images/Ejercicio6_b.png)
+
+<div align="center">
+<div style="border: 2px solid red; padding: 10px; display: inline-block;">
+
+$$f(t) = \begin{cases} 
+0 & 0 \leq t < 1 \\
+\frac{1}{2}t -\frac{1}{2} & 1 \leq t \leq 3
+\end{cases}$$
+
+$T = 3$ 
+
+</div>
+</div>
