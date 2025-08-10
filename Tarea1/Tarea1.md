@@ -1,11 +1,7 @@
 <div align="center">
 
-# Matematica Aplicada 2 - Tarea 1
+![Ejercicio1_a](images/Caratula_T1.jpg)
 </div>
-
-### Juan Pablo Samayoa Ruiz - 202109705
-
-## Formas de Ondas Periodicas
 
 <div align="Center">
 
