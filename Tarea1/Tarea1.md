@@ -379,3 +379,47 @@ $\int_{\frac{-\pi}{w}}^{\frac{\pi}{w}} \cos mwt \cos nwt \, dt = \begin{cases}
 
 ### ------------------------------Ejercicio 2|Pagina 3|#20------------------------------
 </div>
+
+<div align="center">
+
+$\int_{0}^{T} \cos \frac{2\pi mt}{T} \cos \frac{2\pi nt}{T}\, dt = \begin{cases} 
+0 & m \neq n \\
+\frac{T}{2} & m = n \neq 0
+\end{cases}$
+
+</div>
+
+* $\cos \frac{2\pi 2t}{T} \cdot \cos \frac{2\pi 3t}{T}$
+* $0.5\cos(\frac{2\pi (3t+2t)}{T}) + 0.5\cos(\frac{2\pi (3t-2t)}{T})$
+* $\frac{1}{2} \int_{-\pi}^{\pi} \cos(5t)+\cos(t)\, dt$
+
+<div align="center">
+
+![Ejercicio2.2_b](images/Ejercicio3.2.png)
+</div>
+
+<div align="center">
+
+### ------------------------------Ejercicio 3|Pagina 3|#21------------------------------
+</div>
+
+<div align="center">
+
+$\int_{0}^{T} \cos \frac{2\pi mt}{T} \sin \frac{2\pi nt}{T}\, dt = $ para todo m y n
+
+</div>
+
+* $\cos \frac{2\pi 2t}{T} \cdot \sin \frac{2\pi 3t}{T}$
+* $\frac{1}{2}[\sin(3t-2t)+\sin(2t+3t)]$
+* $\frac{1}{2} \int_{-\pi}^{\pi} \sin(5t)+\sin(t)\, dt$
+
+<div align="center">
+
+![Ejercicio2.2_b](images/Ejercicio3.3.png)
+</div>
+
+<div align="center">
+
+## Series trigonometricas de fourier
+### ------------------------------Ejercicio 3|Pagina 3|#21------------------------------
+</div>
