@@ -448,3 +448,8 @@ $$f(t) = \begin{cases}
 \end{cases}$$
 
 </div>
+
+<div align="center">
+
+![Ejercicio2.2_b](images/Ejercicio4.2.png)
+</div>
