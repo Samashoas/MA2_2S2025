@@ -421,5 +421,25 @@ $\int_{0}^{T} \cos \frac{2\pi mt}{T} \sin \frac{2\pi nt}{T}\, dt = $ para todo m
 <div align="center">
 
 ## Series trigonometricas de fourier
-### ------------------------------Ejercicio 3|Pagina 3|#21------------------------------
+### ------------------------------Ejercicio 1|Pagina 3|#22------------------------------
+</div>
+
+<div align="center">
+
+![Ejercicio2.2_b](images/Ejercicio4.1.png)
+</div>
+
+<div align="center">
+
+### ------------------------------Ejercicio 2|Pagina 3|#23------------------------------
+</div>
+Determine la representación de la serie de Fourier de la función y dibuje su espectro de amplitud
+
+<div align="center">
+
+$$f(t) = \begin{cases} 
+0 & -5 < t < 0 \\
+1 & 0 < t < 5
+\end{cases}$$
+
 </div>
