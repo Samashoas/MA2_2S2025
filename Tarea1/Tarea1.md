@@ -214,7 +214,10 @@ t & 0 \leq t \leq 1
 
 Escriba expresiones matemáticas para describir las funciones cuyas gráficas se muestran a continuación
 
+<div align="center">
+
 ![Ejercicio1_b](images/Ejercicio6_a.png)
+</div>
 
 <div align="center">
 <div style="border: 2px solid red; padding: 10px; display: inline-block;">
@@ -238,7 +241,10 @@ $T = 2$
 
 Escriba expresiones matemáticas para describir las funciones cuyas gráficas se muestran a continuación
 
+<div align="center">
+
 ![Ejercicio1_b](images/Ejercicio6_b.png)
+</div>
 
 <div align="center">
 <div style="border: 2px solid red; padding: 10px; display: inline-block;">
@@ -270,7 +276,175 @@ $T = 3$
 ### ------------------------------Ejercicio 1_b|Pagina 2|#13------------------------------
 </div>
 
+<div align="center">
+
 ![Ejercicio1_b](images/Ejercicio2.1_b.png)
+</div>
 
 * i: La gráfica no presenta simetría ni respecto al eje vertical ni respecto al origen.
 * ii: La gráfica cumple la condición de función impar. Esto significa que si se rota la gráfica 180° alrededor del origen, coincide consigo misma.
+
+<div align="center">
+
+### ------------------------------Ejercicio 1_c|Pagina 3|#14------------------------------
+</div>
+
+<div align="center">
+
+![Ejercicio1_b](images/Ejercicio2.1_c.png)
+</div>
+
+* No es simétrica porque no cumple ninguna de las simetrías típicas: par, impar ni de media onda. Y al desplazar medio período, la mitad derecha no es la negación exacta de la izquierda, por lo que tampoco hay simetría de media onda.
+
+<div align="center">
+
+### ------------------------------Ejercicio 1_d|Pagina 3|#15------------------------------
+</div>
+
+<div align="center">
+
+![Ejercicio1_b](images/Ejercicio2.1_d.png)
+</div>
+
+* Visualmente, el trazo a la izquierda de 0 es el espejo exacto del de la derecha: el valle está en 𝑡 = 0 t=0 y los picos aparecen a distancias iguales ±T/2 con la misma altura. 
+
+<div align="center">
+
+### ------------------------------Ejercicio 1_e|Pagina 3|#16------------------------------
+</div>
+
+$ f(x) = \sin t - 0.5t^2$
+
+<div align="center">
+
+![Ejercicio1_b](images/Ejercicio2.1_e.png)
+</div>
+
+* No hay simetria debido a que la función es una mezcla de de una parte impar y otra que es par, el termino $-0.5t^2$ rompe con la simetria periódica.
+
+<div align="center">
+
+### ------------------------------Ejercicio 2|Pagina 3|#17------------------------------
+</div>
+
+Usando las propiedades de funciones pares e impares, establezca si las siguientes funciones son pares o impares o ninguna.
+
+* $t^3\sin wt$: Tanto $t^3$ como $\sin wt$ son impares, por lo tanto la multiplicación de ambos da como resultado una **funcion par**
+
+* $t \cos t$: El termino $t$ es par, el termino $\cos t$ es un termino par, el resultado de la multiplicación de ambos da como resultado una **función impar**
+
+* $\cos wt \sin wt$: $\cos wt$ es un termino par, sin embargo $\sin wt$ es un termino impar, por lo que el resultado de la multiplicación de ambas da como resultado una **función impar**
+
+* $x(t) = |t| +1, -2<t<2, T=4$:
+
+<div align="center">
+
+![Ejercicio2.2_b](images/Ejercicio2.2.png)
+</div>
+
+<div align="center">
+
+### ------------------------------Ejercicio 3|Pagina 3|#18------------------------------
+</div>
+
+Evalue las siguientes integrales usando las propiedades de integrales para funciones pares o impares donde sea necesario
+
+* $\int_{-5}^{5} t^3 dt$: **función impar**
+* $\int_{-\pi}^{\pi} t^3 \sin t dt$: **función par**
+* $\int_{-1}^{1} t^3 \cos 3t dt$: **función impar**
+* $\int_{-T}^{T} \sin(nwt) \cos(mwt) dt$ **función impar**
+
+<div align="center">
+
+## Ortogonalidad e identidades de integrales
+### ------------------------------Ejercicio 1|Pagina 3|#19------------------------------
+</div>
+
+Usando la identidad triconométrica $2\cos A \cos B = \cos(A+B) + \cos(A-B)$, compruebe la integral dada. Graficando el integrando con $m = 2, n=3 , w=1$ en $\pi \leq t \leq \pi$. Justifique su valor nulo en términos de area neta
+
+<div align="center">
+
+$\int_{\frac{-\pi}{w}}^{\frac{\pi}{w}} \cos mwt \cos nwt \, dt = \begin{cases} 
+0 & m \neq n \\
+\frac{\pi}{w} & m = n \neq 0
+\end{cases}$
+
+</div>
+
+* $\cos 2t \dot \cos 3t$
+* $0.5\cos (2t + 3t) + 0.5\cos(3t-2t)$
+* Respuesta: $\int_{-\pi}^{\pi} 0.5 \cos(5t) + 0.5\cos(t) dt$
+
+<div align="center">
+
+![Ejercicio2.2_b](images/Ejercicio3.1.png)
+</div>
+
+<div align="center">
+
+### ------------------------------Ejercicio 2|Pagina 3|#20------------------------------
+</div>
+
+<div align="center">
+
+$\int_{0}^{T} \cos \frac{2\pi mt}{T} \cos \frac{2\pi nt}{T}\, dt = \begin{cases} 
+0 & m \neq n \\
+\frac{T}{2} & m = n \neq 0
+\end{cases}$
+
+</div>
+
+* $\cos \frac{2\pi 2t}{T} \cdot \cos \frac{2\pi 3t}{T}$
+* $0.5\cos(\frac{2\pi (3t+2t)}{T}) + 0.5\cos(\frac{2\pi (3t-2t)}{T})$
+* $\frac{1}{2} \int_{-\pi}^{\pi} \cos(5t)+\cos(t)\, dt$
+
+<div align="center">
+
+![Ejercicio2.2_b](images/Ejercicio3.2.png)
+</div>
+
+<div align="center">
+
+### ------------------------------Ejercicio 3|Pagina 3|#21------------------------------
+</div>
+
+<div align="center">
+
+$\int_{0}^{T} \cos \frac{2\pi mt}{T} \sin \frac{2\pi nt}{T}\, dt = $ para todo m y n
+
+</div>
+
+* $\cos \frac{2\pi 2t}{T} \cdot \sin \frac{2\pi 3t}{T}$
+* $\frac{1}{2}[\sin(3t-2t)+\sin(2t+3t)]$
+* $\frac{1}{2} \int_{-\pi}^{\pi} \sin(5t)+\sin(t)\, dt$
+
+<div align="center">
+
+![Ejercicio2.2_b](images/Ejercicio3.3.png)
+</div>
+
+<div align="center">
+
+## Series trigonometricas de fourier
+### ------------------------------Ejercicio 1|Pagina 3|#22------------------------------
+</div>
+
+<div align="center">
+
+![Ejercicio2.2_b](images/Ejercicio4.1.png)
+</div>
+
+<div align="center">
+
+### ------------------------------Ejercicio 2|Pagina 3|#23------------------------------
+</div>
+Determine la representación de la serie de Fourier de la función y dibuje su espectro de amplitud
+
+<div align="center">
+
+$$f(t) = \begin{cases} 
+0 & -5 < t < 0 \\
+1 & 0 < t < 5
+\end{cases}$$
+
+</div>
