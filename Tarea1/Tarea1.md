@@ -366,3 +366,16 @@ $\int_{\frac{-\pi}{w}}^{\frac{\pi}{w}} \cos mwt \cos nwt \, dt = \begin{cases}
 
 </div>
 
+* $\cos 2t \dot \cos 3t$
+* $0.5\cos (2t + 3t) + 0.5\cos(3t-2t)$
+* Respuesta: $\int_{-\pi}^{\pi} 0.5 \cos(5t) + 0.5\cos(t) dt$
+
+<div align="center">
+
+![Ejercicio2.2_b](images/Ejercicio3.1.png)
+</div>
+
+<div align="center">
+
+### ------------------------------Ejercicio 2|Pagina 3|#20------------------------------
+</div>
