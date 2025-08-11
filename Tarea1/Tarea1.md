@@ -468,3 +468,18 @@ $$f(t) = \begin{cases}
 
 ### ------------------------------Ejercicio 4|Pagina 4|#25------------------------------
 </div>
+
+<div align="center">
+
+![Ejercicio2.2_b](images/Ejercicio4.4.png)
+</div>
+
+<div align="center">
+
+### ------------------------------Ejercicio 5|Pagina 4|#25------------------------------
+</div>
+
+<div align="center">
+
+![Ejercicio2.2_b](images/Ejercicio4.5.png)
+</div>
