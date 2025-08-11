@@ -212,7 +212,10 @@ t & 0 \leq t \leq 1
 
 Escriba expresiones matemáticas para describir las funciones cuyas gráficas se muestran a continuación
 
+<div align="center">
+
 ![Ejercicio1_b](images/Ejercicio6_a.png)
+</div>
 
 <div align="center">
 <div style="border: 2px solid red; padding: 10px; display: inline-block;">
@@ -234,7 +237,10 @@ $T = 2$
 
 Escriba expresiones matemáticas para describir las funciones cuyas gráficas se muestran a continuación
 
+<div align="center">
+
 ![Ejercicio1_b](images/Ejercicio6_b.png)
+</div>
 
 <div align="center">
 <div style="border: 2px solid red; padding: 10px; display: inline-block;">
@@ -265,7 +271,10 @@ $T = 3$
 ### ------------------------------Ejercicio 1_b|Pagina 2|#13------------------------------
 </div>
 
+<div align="center">
+
 ![Ejercicio1_b](images/Ejercicio2.1_b.png)
+</div>
 
 * i: La gráfica no presenta simetría ni respecto al eje vertical ni respecto al origen.
 * ii: La gráfica cumple la condición de función impar. Esto significa que si se rota la gráfica 180° alrededor del origen, coincide consigo misma.
@@ -275,7 +284,10 @@ $T = 3$
 ### ------------------------------Ejercicio 1_c|Pagina 3|#14------------------------------
 </div>
 
+<div align="center">
+
 ![Ejercicio1_b](images/Ejercicio2.1_c.png)
+</div>
 
 * No es simétrica porque no cumple ninguna de las simetrías típicas: par, impar ni de media onda. Y al desplazar medio período, la mitad derecha no es la negación exacta de la izquierda, por lo que tampoco hay simetría de media onda.
 
@@ -284,7 +296,10 @@ $T = 3$
 ### ------------------------------Ejercicio 1_d|Pagina 3|#15------------------------------
 </div>
 
+<div align="center">
+
 ![Ejercicio1_b](images/Ejercicio2.1_d.png)
+</div>
 
 * Visualmente, el trazo a la izquierda de 0 es el espejo exacto del de la derecha: el valle está en 𝑡 = 0 t=0 y los picos aparecen a distancias iguales ±T/2 con la misma altura. 
 
@@ -295,6 +310,59 @@ $T = 3$
 
 $ f(x) = \sin t - 0.5t^2$
 
+<div align="center">
+
 ![Ejercicio1_b](images/Ejercicio2.1_e.png)
+</div>
 
 * No hay simetria debido a que la función es una mezcla de de una parte impar y otra que es par, el termino $-0.5t^2$ rompe con la simetria periódica.
+
+<div align="center">
+
+### ------------------------------Ejercicio 2|Pagina 3|#17------------------------------
+</div>
+
+Usando las propiedades de funciones pares e impares, establezca si las siguientes funciones son pares o impares o ninguna.
+
+* $t^3\sin wt$: Tanto $t^3$ como $\sin wt$ son impares, por lo tanto la multiplicación de ambos da como resultado una **funcion par**
+
+* $t \cos t$: El termino $t$ es par, el termino $\cos t$ es un termino par, el resultado de la multiplicación de ambos da como resultado una **función impar**
+
+* $\cos wt \sin wt$: $\cos wt$ es un termino par, sin embargo $\sin wt$ es un termino impar, por lo que el resultado de la multiplicación de ambas da como resultado una **función impar**
+
+* $x(t) = |t| +1, -2<t<2, T=4$:
+
+<div align="center">
+
+![Ejercicio2.2_b](images/Ejercicio2.2.png)
+</div>
+
+<div align="center">
+
+### ------------------------------Ejercicio 3|Pagina 3|#18------------------------------
+</div>
+
+Evalue las siguientes integrales usando las propiedades de integrales para funciones pares o impares donde sea necesario
+
+* $\int_{-5}^{5} t^3 dt$: **función impar**
+* $\int_{-\pi}^{\pi} t^3 \sin t dt$: **función par**
+* $\int_{-1}^{1} t^3 \cos 3t dt$: **función impar**
+* $\int_{-T}^{T} \sin(nwt) \cos(mwt) dt$ **función impar**
+
+<div align="center">
+
+## Ortogonalidad e identidades de integrales
+### ------------------------------Ejercicio 1|Pagina 3|#19------------------------------
+</div>
+
+Usando la identidad triconométrica $2\cos A \cos B = \cos(A+B) + \cos(A-B)$, compruebe la integral dada. Graficando el integrando con $m = 2, n=3 , w=1$ en $\pi \leq t \leq \pi$. Justifique su valor nulo en términos de area neta
+
+<div align="center">
+
+$\int_{\frac{-\pi}{w}}^{\frac{\pi}{w}} \cos mwt \cos nwt \, dt = \begin{cases} 
+0 & m \neq n \\
+\frac{\pi}{w} & m = n \neq 0
+\end{cases}$
+
+</div>
+
