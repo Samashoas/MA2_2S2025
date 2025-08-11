@@ -476,10 +476,31 @@ $$f(t) = \begin{cases}
 
 <div align="center">
 
-### ------------------------------Ejercicio 5|Pagina 4|#25------------------------------
+### ------------------------------Ejercicio 5|Pagina 5|#25------------------------------
 </div>
 
 <div align="center">
 
 ![Ejercicio2.2_b](images/Ejercicio4.5.png)
+</div>
+
+<div align="center">
+
+### ------------------------------Ejercicio 6|Pagina 5|#26------------------------------
+</div>
+
+<div align="center">
+
+![Ejercicio2.2_b](images/Ejercicio4.6.png)
+</div>
+
+<div align="center">
+
+### ------------------------------Ejercicio 7|Pagina 5|#27------------------------------
+</div>
+
+<div align="center">
+
+![Ejercicio2.2_b](images/Ejercicio4.7.png)
+![Ejercicio2.2_b](images/Ejercicio4.7_d.png)
 </div>
