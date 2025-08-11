@@ -174,9 +174,10 @@ b) $x(t) = 3\cos 3t$
 
 <div align="center">
 <div style="border: 2px solid red; padding: 10px; display: inline-block;">
+  
 Respuesta:
 
-**$ 3\sin(3t + \frac{\pi}{2}) $**
+**$3\sin(3t + \frac{\pi}{2})$**
 
 </div>
 </div>
@@ -188,7 +189,7 @@ Respuesta:
 
 Para las siguientes funciones periódicas, trace las gráficas de al menos tres períodos:
 
-a) $ f(t) = t^2, -1 \leq t \leq 1 $
+a) $f(t) = t^2, -1 \leq t \leq 1$
 
 ![Ejercicio1_b](images/Ejercicio5_a.png)
 
@@ -199,7 +200,9 @@ a) $ f(t) = t^2, -1 \leq t \leq 1 $
 
 Para las siguientes funciones periódicas, trace las gráficas de al menos tres períodos:
 
+ 
 b) 
+
 $$f(t) = \begin{cases} 
 -t & -2 \leq t < 0 \\
 t & 0 \leq t \leq 1
@@ -364,10 +367,10 @@ Usando la identidad triconométrica $2\cos A \cos B = \cos(A+B) + \cos(A-B)$, co
 
 <div align="center">
 
-$\int_{\frac{-\pi}{w}}^{\frac{\pi}{w}} \cos mwt \cos nwt \, dt = \begin{cases} 
+$$\int_{\frac{-\pi}{w}}^{\frac{\pi}{w}} \cos mwt \cos nwt \, dt = \begin{cases} 
 0 & m \neq n \\
 \frac{\pi}{w} & m = n \neq 0
-\end{cases}$
+\end{cases}$$
 
 </div>
 
@@ -387,10 +390,10 @@ $\int_{\frac{-\pi}{w}}^{\frac{\pi}{w}} \cos mwt \cos nwt \, dt = \begin{cases}
 
 <div align="center">
 
-$\int_{0}^{T} \cos \frac{2\pi mt}{T} \cos \frac{2\pi nt}{T}\, dt = \begin{cases} 
+$$\int_{0}^{T} \cos \frac{2\pi mt}{T} \cos \frac{2\pi nt}{T}\, dt = \begin{cases} 
 0 & m \neq n \\
 \frac{T}{2} & m = n \neq 0
-\end{cases}$
+\end{cases}$$
 
 </div>
 
@@ -410,7 +413,7 @@ $\int_{0}^{T} \cos \frac{2\pi mt}{T} \cos \frac{2\pi nt}{T}\, dt = \begin{cases}
 
 <div align="center">
 
-$\int_{0}^{T} \cos \frac{2\pi mt}{T} \sin \frac{2\pi nt}{T}\, dt = $ para todo m y n
+$\int_{0}^{T} \cos \frac{2\pi mt}{T} \sin \frac{2\pi nt}{T}\, dt =$ para todo m y n
 
 </div>
 
