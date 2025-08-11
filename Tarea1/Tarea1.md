@@ -155,6 +155,7 @@ a) $f(x) = 0.5\cos t + 3.2\sin t$
 <div align="center">
 <div style="border: 2px solid red; padding: 10px; display: inline-block;">
 
+Respuesta:
 **$3.24\sin(t+0.155)$**
 
 </div>
@@ -173,6 +174,7 @@ b) $x(t) = 3\cos 3t$
 
 <div align="center">
 <div style="border: 2px solid red; padding: 10px; display: inline-block;">
+Respuesta:
 
 **$ 3\sin(3t + \frac{\pi}{2}) $**
 
@@ -220,6 +222,8 @@ Escriba expresiones matemáticas para describir las funciones cuyas gráficas se
 <div align="center">
 <div style="border: 2px solid red; padding: 10px; display: inline-block;">
 
+Respuesta:
+
 $$f(t) = \begin{cases} 
 1 & 0 \leq t < 1 \\
 0 & -1 \leq t \leq 0
@@ -244,6 +248,7 @@ Escriba expresiones matemáticas para describir las funciones cuyas gráficas se
 
 <div align="center">
 <div style="border: 2px solid red; padding: 10px; display: inline-block;">
+Respuesta:
 
 $$f(t) = \begin{cases} 
 0 & 0 \leq t < 1 \\
