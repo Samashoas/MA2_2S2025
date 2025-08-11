@@ -269,3 +269,32 @@ $T = 3$
 
 * i: La gráfica no presenta simetría ni respecto al eje vertical ni respecto al origen.
 * ii: La gráfica cumple la condición de función impar. Esto significa que si se rota la gráfica 180° alrededor del origen, coincide consigo misma.
+
+<div align="center">
+
+### ------------------------------Ejercicio 1_c|Pagina 3|#14------------------------------
+</div>
+
+![Ejercicio1_b](images/Ejercicio2.1_c.png)
+
+* No es simétrica porque no cumple ninguna de las simetrías típicas: par, impar ni de media onda. Y al desplazar medio período, la mitad derecha no es la negación exacta de la izquierda, por lo que tampoco hay simetría de media onda.
+
+<div align="center">
+
+### ------------------------------Ejercicio 1_d|Pagina 3|#15------------------------------
+</div>
+
+![Ejercicio1_b](images/Ejercicio2.1_d.png)
+
+* Visualmente, el trazo a la izquierda de 0 es el espejo exacto del de la derecha: el valle está en 𝑡 = 0 t=0 y los picos aparecen a distancias iguales ±T/2 con la misma altura. 
+
+<div align="center">
+
+### ------------------------------Ejercicio 1_e|Pagina 3|#16------------------------------
+</div>
+
+$ f(x) = \sin t - 0.5t^2$
+
+![Ejercicio1_b](images/Ejercicio2.1_e.png)
+
+* No hay simetria debido a que la función es una mezcla de de una parte impar y otra que es par, el termino $-0.5t^2$ rompe con la simetria periódica.
